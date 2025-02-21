@@ -1,4 +1,5 @@
 This script compares two remote folders on different servers via SSH/SFTP.
+
 Features:
   • Recursively lists files (optionally follows symlinks with cycle detection).
   • Supports optional filtering via a compare list file.
