@@ -1,6 +1,7 @@
 """
 Remote Folder Comparison Tool with Flask Web Interface.
 
+
 Features:
   • Recursively lists files on two remote servers via SSH/SFTP.
   • Compares file content (line-by-line diff for text files, streaming MD5 for large/binary files).
